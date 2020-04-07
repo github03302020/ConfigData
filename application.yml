@@ -5,6 +5,6 @@ eureka:
 
 ----
 spring:
-  profiles: demo3-verb
+  profiles: verb
 words: ran,knew,had,saw,bought
   
