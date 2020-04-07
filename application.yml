@@ -28,7 +28,7 @@ words: a,the
 ---
   
 spring:
-  profiles: demo3-article
-words: a,the
+  profiles: demo3-subject
+words: I,You,He,She,It
 
 
