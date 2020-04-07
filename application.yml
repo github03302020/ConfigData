@@ -1,21 +1,20 @@
 spring:
   profiles: demo3-verb
-
+words: ran,knew,had,saw,bought
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/ 
 
-words: ran,knew,had,saw,bought
 
 ---
   
 spring:
   profiles: demo3-noun
-
+words: boat,book,vote,seat,backpack,partition,groundhog
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/ 
 
-words: boat,book,vote,seat,backpack,partition,groundhog
+
