@@ -3,8 +3,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/ 
 
-----
-spring:
-  profiles: demo3-verb
+
 words: ran,knew,had,saw,bought
   
