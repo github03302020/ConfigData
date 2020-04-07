@@ -7,8 +7,5 @@ spring:
   profiles: demo3-verb
 words: ran,knew,had,saw,bought
 
----
-spring:
-  profiles: demo3-noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+
   
