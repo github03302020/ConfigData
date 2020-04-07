@@ -1,6 +1,6 @@
 
 spring:
-  profiles: demo3-verb
+  profiles: verb
 eureka:
   client:
     serviceUrl:
